@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=chaimaaskri&show_icons=true&hide=stars,contribs&theme=radical" alt="Chaima's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=chaimaaskri&show_icons=true&hide=stars,contribs&theme=radical&random=${Date.now()" alt="Chaima's GitHub stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaaskri&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
