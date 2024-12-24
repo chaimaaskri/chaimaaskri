@@ -1,16 +1,26 @@
-## Hi there 👋
+## About  
+🔭 I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Natural Language Processing**. My experience spans **Predictive Modeling**, **Exploratory Analysis**, **Model Deployment**, and developing cutting-edge **AI solutions**.  
 
-<!--
-**chaimaaskri/chaimaaskri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💭 My personal mission is to design and build innovative **AI-driven tools** that tackle real-world challenges and simplify daily life for people worldwide.  
 
-Here are some ideas to get you started:
+👯 I am enthusiastic about coaching, and collaborating with other AI enthusiasts. If you have an idea or project aligned with my interests, don't hesitate to reach out!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉🏼 Follow me on **LinkedIn** and check out my latest projects here on **GitHub**!  
+
+---
+
+## Bio  
+🧠 I'm a seasoned **AI Engineer** with experience developing **AI models**, **Machine Learning systems**, and **computer vision pipelines**.  
+
+⌛️ I am passionate about driving **innovation** at the intersection of **AI** and real-world applications, with a focus on impactful solutions in sectors such as **automotive insurance**, **financial AI**, and **biometrics**.  
+
+🎓 I graduated from **ESPRIT**, specializing in **AI Engineering**, and have built an academic and professional foundation that integrates **problem-solving**, **research**, and **hands-on deployment**.  
+
+📝 My contributions include projects in **customer segmentation**, **personalized marketing**, and **AI-enabled automation systems**, with a track record of delivering **production-ready models**.  
+
+🌱 I am currently expanding my expertise in areas such as **Generative AI**, **MLOps**, and **trading bots**, while exploring advanced **deep learning models** to solve domain-specific challenges.  
+
+---
+
+## Outside of Work  
+🏃‍♀️ I enjoy **Muay Thai**, **Pilates**, and **language learning** as a **Polyglot**! 
