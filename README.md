@@ -3,7 +3,7 @@
 
 💭 My personal mission is to design and build innovative **AI-driven tools** that tackle real-world challenges and simplify daily life for people worldwide.  
 
-👯 I am enthusiastic about coaching, and collaborating with other AI enthusiasts. If you have an idea or project aligned with my interests, don't hesitate to reach out!  
+  I am enthusiastic about coaching, and collaborating with other AI enthusiasts. If you have an idea or project aligned with my interests, don't hesitate to reach out!  
 
 👉🏼 Follow me on **LinkedIn** and check out my latest projects here on **GitHub**!  
 
