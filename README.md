@@ -24,10 +24,12 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=chaimaaskri&show_icons=true&hide=stars,contribs&theme=radical" alt="Chaima's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=chaimaaskri&show_icons=true&hide=stars,contribs&theme=radical&random=1" alt="Chaima's GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaaskri&theme=radical" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaaskri&theme=radical&random=1" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
+
