@@ -7,8 +7,6 @@
 
 👉🏼 Follow me on **LinkedIn** and check out my latest projects here on **GitHub**!  
 
----
-
 ## Bio  
 🧠 I'm a seasoned **AI Engineer** with experience developing **AI models**, **Machine Learning systems**, and **computer vision pipelines**.  
 
@@ -19,8 +17,6 @@
 📝 My contributions include projects in **customer segmentation**, **personalized marketing**, and **AI-enabled automation systems**, with a track record of delivering **production-ready models**.  
 
 🌱 I am currently expanding my expertise in areas such as **Generative AI**, **MLOps**, and **trading bots**, while exploring advanced **deep learning models** to solve domain-specific challenges.  
-
----
 
 ## Outside of Work  
 🏃‍♀️ I enjoy **Muay Thai**, **Pilates**, and **language learning** as a **Polyglot**! 
