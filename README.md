@@ -20,3 +20,14 @@
 
 ## Outside of Work  
 🏃‍♀️ I enjoy **Muay Thai**, **Pilates**, and **language learning** as a **Polyglot**! 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=chaimaaskri&show_icons=true&hide=stars,contribs&theme=radical" alt="Chaima's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaaskri&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
